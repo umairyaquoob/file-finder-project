@@ -1,3 +1,3 @@
 # file-finder-project
 
-A file finder program written in go. 
+A file finder program written in Go. 
